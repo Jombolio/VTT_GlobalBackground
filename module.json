@@ -1,0 +1,9 @@
+{
+  "id": "global-scene-background",
+  "title": "Global Scene Background",
+  "description": "Set one background colour for every world scene, including future scenes and Foundry v14 levels.",
+  "version": "1.0.0",
+  "compatibility": { "minimum": "13", "maximum": "14" },
+  "authors": [{ "name": "Jamie" }],
+  "esmodules": ["scripts/main.js"]
+}
