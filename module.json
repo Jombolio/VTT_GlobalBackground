@@ -5,5 +5,8 @@
   "version": "1.0.0",
   "compatibility": { "minimum": "13", "maximum": "14" },
   "authors": [{ "name": "Jamie" }],
-  "esmodules": ["scripts/main.js"]
+  "esmodules": ["scripts/main.js"],
+  "url": "https://github.com/Jombolio/VTT_GlobalBackground",
+  "manifest": "https://raw.githubusercontent.com/Jombolio/VTT_GlobalBackground/main/module.json",
+  "download": "https://raw.githubusercontent.com/Jombolio/VTT_GlobalBackground/main/dist/global-scene-background.zip"
 }
